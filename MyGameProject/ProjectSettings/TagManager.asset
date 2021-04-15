@@ -13,12 +13,12 @@ TagManager:
   - Ground
   - Water
   - UI
+  - Player
+  - pf
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - PlayerDamaged
   - 
   - 
   - 
